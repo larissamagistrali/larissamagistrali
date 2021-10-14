@@ -10,7 +10,7 @@
 </div>
 
 <br>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamagistrali&hide=javascript,html,css,makefile&layout=compact&title_color=000" /></td>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamagistrali&hide=c,javascript,html,css,makefile&layout=compact&title_color=000" /></td>
 
 </body>
 </html>
