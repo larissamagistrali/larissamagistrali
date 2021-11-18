@@ -9,9 +9,6 @@
 <a  href="https://gitlab.com/larissamagistrali"><img src="https://github.com/larissamagistrali/larissamagistrali/blob/master/img/img1.png"  width="30px" height="30px"></a>
 </div>
 
-<br>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamagistrali&hide=yacc,batchfile,perl,shell,assembly,c,javascript,html,css,makefile&layout=compact&title_color=000" /></td>
-
 </body>
 </html>
 
