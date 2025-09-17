@@ -15,6 +15,6 @@
 
   <br>
 
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamagistrali&hide=jupyter%20notebook,makefile&layout=compact&title_color=000000&text_color=000000&bg_color=F7F7F7&hide_border=false&locale=pt-br"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamagistrali&hide=makefile&layout=compact&title_color=000000&text_color=000000&bg_color=F7F7F7&hide_border=false&locale=pt-br"/>
 
 </div>
